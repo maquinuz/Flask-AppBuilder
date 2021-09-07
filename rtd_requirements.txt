@@ -31,5 +31,5 @@ six==1.12.0               # via flask-jwt-extended, jsonschema, prison, pyrsiste
 sqlalchemy-utils==0.33.9
 sqlalchemy==1.3.1         # via flask-sqlalchemy, marshmallow-sqlalchemy, sqlalchemy-utils
 werkzeug==0.15.5          # via flask, flask-jwt-extended
-wtforms==2.2.1            # via flask-wtf
+wtforms==3.0.0a1            # via flask-wtf
 
