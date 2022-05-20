@@ -2,7 +2,7 @@ sphinxcontrib-blockdiag>=1.5.0
 sphinx-rtd-theme>=0.2.4
 apispec[yaml]==1.1.1
 attrs==19.1.0             # via jsonschema
-babel==2.6.0              # via flask-babel
+babel==2.9.1              # via flask-babel
 click==7.0
 colorama==0.4.1
 defusedxml==0.5.0         # via python3-openid
@@ -14,14 +14,14 @@ flask-sqlalchemy==2.4.0
 flask-wtf==0.14.2
 flask==1.1.1
 itsdangerous==1.1.0       # via flask
-jinja2==2.10.1            # via flask, flask-babel
+jinja2==2.11.3            # via flask, flask-babel
 jsonschema==3.0.1
 markupsafe==1.1.1         # via jinja2
 marshmallow-enum==1.4.1
 marshmallow-sqlalchemy==0.16.2
 marshmallow==2.18.0
 prison==0.1.2
-pyjwt==1.7.1
+pyjwt==2.4.0
 pyrsistent==0.14.11       # via jsonschema
 python-dateutil==2.8.0
 python3-openid==3.1.0     # via flask-openid
